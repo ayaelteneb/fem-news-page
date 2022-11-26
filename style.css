@@ -1,0 +1,260 @@
+
+
+h2 {
+    color: hsl(35, 77%, 62%);
+    //padding-bottom: 0.3cm;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 1.1cm;
+}
+
+.body {
+    color: hsl(233, 8%, 79%);
+}
+
+img {
+    width: 746px;
+    margin-left: 2.54cm;
+    position: relative;
+    bottom: 1.38cm;
+}
+
+svg {
+    padding-top: 5%;
+    padding-left: 8%;
+    padding-bottom: 4%;
+}
+h3 {
+    font-size: 0.5cm;
+    padding-top: 0.2cm;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: hsl(36, 100%, 99%);
+}
+
+.rectangle {
+    width: 339.2px;
+    height: 497.1px;
+    background-color: #00000d;
+}
+
+//div.rectangle{
+    position: relative;
+    left: 70%;
+}
+
+.rectangle2{
+    width: 190px;
+    height: 50px;
+    background-color: hsl(5, 85%, 63%);
+    color: #ffffff;
+    font-family: 'inter', sans-serif;
+    letter-spacing: 0.15cm;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.rectangle2 :hover{
+    width: 190px;
+    height: 50px;
+    background-color: #00000d;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+.wholeparagraph{
+
+}
+
+div.wholeparagraph{
+    position: relative;
+    left: 13cm;
+    bottom: 6.6cm;
+}
+
+.new{
+    padding-left: 0.5cm;
+    //line-height: 0.5cm;
+}
+
+div.new{
+    position: relative;
+    bottom: 13.4cm;
+    left: 0.14cm;
+    color: #ffffff;
+}
+
+p {
+    font-size: 15px;
+    padding-bottom: 0.3cm;
+    padding-top: 0cm;
+    //letter-spacing: 0.1mm;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: hsl(236, 13%, 42%);
+}
+
+.wholerec{
+
+}
+
+div.wholerec{
+    position: relative;
+    bottom: 20.1cm;
+    left: 22.7cm;
+}
+
+hr{
+    width: 7.6cm;
+    position: relative;
+    left: -12.5cm;
+    background-color: hsl(236, 13%, 42%);
+    height: 1px;
+    border-width: 0;
+}
+
+.home{
+    color: hsl(236, 13%, 42%);
+    font-family: 'inter', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+ div.home{
+    position: relative;
+    left: 20.48cm;
+    bottom: 2.25cm;
+    word-spacing: 5mm;
+    margin-right: 2.54cm;
+ }
+
+ .home :hover{
+    color: hsl(5, 85%, 63%);
+ }
+
+h1 {
+    font-family: 'inter', sans-serif;
+    font-weight: 800;
+    font-size: 45px;
+    margin-left: 2.54cm;
+    position: relative;
+    bottom: 1.6cm;
+    left: 0.2cm;
+    color: #00000d;
+    letter-spacing: 0.5mm;
+    word-spacing: 1mm;
+}
+
+.paragraph{
+    color: hsl(236, 13%, 42%);
+    font-family: 'inter', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding-bottom: 0.7cm;
+    line-height: 0.65cm;
+}
+
+.title{
+
+}
+
+div.title{
+    position: relative;
+    bottom: 0.38cm;
+}
+
+.retro{
+
+}
+
+div.retro{
+    margin-left: 2.54cm;
+}
+
+#joystick{
+
+}
+
+h4{
+    color:hsl(233, 8%, 79%) ;
+    font-family: 'inter',sans-serif;
+    font-weight: 700;
+    font-size: 0.7cm;
+    position: relative;
+    top: 0.7cm;
+}
+
+h5{
+    color: hsl(240, 100%, 5%);
+    font-family: 'inter',sans-serif;
+    font-weight: 800;
+    position: relative;
+    top: 0.2cm;
+}
+
+.o3{
+
+}
+
+div.o3{
+    position: relative;
+    left: 26cm;
+    bottom: 54.5cm;
+}
+
+.o2{
+
+}
+
+div.o2{
+    position: relative;
+    bottom: 45.6cm;
+    left: 6cm;
+}
+
+.o1{
+
+}
+
+div.o1{
+    position: relative;
+    bottom: 36.76cm;
+    left: 13.8cm;
+}
+
+.laptops{
+
+}
+
+div.laptops{
+    position: relative;
+    left: 10.37cm;
+}
+
+.retro{
+
+}
+
+div.retro{
+    position: relative;
+    right: 10.37cm;
+}
+
+.hydrogen{
+}
+
+.hydrogen:hover{
+    color: hsl(35, 77%, 62%);
+}
+
+.growth{
+
+}
+.growth:hover{
+    color: hsl(5, 85%, 63%);
+}
